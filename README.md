@@ -1,2 +1,2 @@
-# betterextreme
-Better Extreme Install Page
+# better-extreme
+Better Extreme 
