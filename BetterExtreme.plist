@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.csdav.BetterExtreme</string>
+				<string>com.csdav.gll</string>
 				<key>bundle-version</key>
 				<string>1.0.0[1]</string>
 				<key>kind</key>
